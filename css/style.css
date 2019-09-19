@@ -1,0 +1,58 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    background-color: #18181a;
+    color: #fafafa;
+    font-family: 'Roboto', sans-serif;
+}
+
+header img {
+    height: auto;
+    width: auto;
+    max-width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+section {
+    text-align: center;
+}
+
+p {
+    margin-top: 20px;
+}
+
+.input {
+    width: 600px;
+    padding-bottom: 70px;
+    display: block;
+    margin: 0 auto;
+}
+
+.alert {
+    width: 400px;
+    right: 30px;
+    position: absolute;
+    top: 30px;
+}
+
+#direct-gif-link {
+    position: absolute;
+    z-index: -1;
+}
+
+#giphyLink {
+    /* width: 500px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    font-family: 'Roboto', sans-serif; */
+    font-size: 1.2em;
+}
+
+#preview {
+    height: auto;
+    width: auto;
+    max-width: 400px;
+    display: block;
+    margin: 0 auto;
+}
